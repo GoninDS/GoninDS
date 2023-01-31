@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning game development for fun**
 
-- 👨‍💻 All of my public projects are available here at [my github](https://github.com/GoninDS)
+- 👨‍💻 All of my public projects are available here at [**my github**](https://github.com/GoninDS)
 
 - 📫 How to reach me **luisdi2509@gmail.com**
 
